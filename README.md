@@ -5,3 +5,6 @@ This ontology describes commonly contoured (anatomical and treatment planning) s
 Lymph nodes delineation international guidelines are provided. 
 
 This ontology was created to ease and standardize the integration of radiation oncology data into clinical datawarehouses for multicentric studies.
+
+# Paper published in PLoS One
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191263
